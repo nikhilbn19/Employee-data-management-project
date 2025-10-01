@@ -47,30 +47,30 @@ The application allows managing employee records with basic CRUD operations.
 
 2. Build and run the Spring Boot app:
    
-   ./mvnw spring-boot:run
+   - ./mvnw spring-boot:run
 
 3. The server will start at: 
    
-   http://localhost:8080
+   - http://localhost:8080
 
 ### Frontend (React.js)
 
 1. Navigate to the frontend folder:
    
-   cd ems-frontend
+   - cd ems-frontend
 
 2. Install dependencies:
    
-   npm install
+   - npm install
 
 
 3. Run the development server:
    
-   npm start
+   - npm start
 
-   Open in browser:
+   - Open in browser:
    
-   http://localhost:3000
+   - http://localhost:3000
 
 ### API Endpoints
 
